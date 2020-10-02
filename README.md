@@ -10,6 +10,7 @@ You can use these if u have simillar specs .. otherwise  just replace SSDTs , Co
 - Audio ALC - Realtek 887 layout_id = 11
 - RAM - 8GB 
 - SSD - Kingston 120GB
-- MotherBoard - Gigabyte H110m-s2 
+- MotherBoard - Gigabyte H110m-s2 ....
+
 
 😎  😎 😎   
